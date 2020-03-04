@@ -30,6 +30,13 @@ possibly the single best journalistic source to follow
 
 [Broadcastify](https://www.broadcastify.com/). Listen in to police, fire, and EMS radios. Might be useful for primary-source information
 
+[Singapore Government Coronavirus
+Dashboard](https://co.vid19.sg/dashboard). Singapore has had seemingly
+the best response to this crisis so far, and has kept the disease
+numbers low as a result. I consider this the gold standard in terms of
+reliability. I trust this data even more than I trust the WHO data, even
+though the WHO data is more "official"
+
 ----
 
 ### Previous Updates
