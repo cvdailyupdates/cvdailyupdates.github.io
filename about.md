@@ -50,9 +50,25 @@ on. I do not intend to mislead or misreport. If you see anything in my
 updates that you think is wrong, please contact me and I will correct
 it.
 
+I will post links to potential medical treatments. I will avoid posting
+anything I think is obviously false, and I will avoid posting anything
+that I think is dangerous. However, I will post things that I think show
+promise and I will post things that I think are low-risk and worth
+trying even if they don't work. _**NOTHING ON THIS SITE IS MEDICAL
+ADVICE. I AM NOT A DOCTOR, NOT A BIOLOGIST, NOT A CHEMIST. YOU AND YOU
+ALONE ARE RESPONSIBLE FOR DECIDING TO TRY ANY MEDICAL INTERVENTIONS I
+POST HERE**_. Some of these posts might be called fake or untrue by
+other sources. It is up to you what you want to believe, on a
+case-by-case basis.
+
 I will try my best to be fair, balanced, and neutral, to report the
 facts as I see them and avoid politics or bias. But this site is my
 opinion and at times I will be opinionated
+
+I will not monetize this site in any way, and I will not attach any
+marketing, tracking, advertising, etc. This website is open source and
+the source can be seen [on
+Github](https://github.com/cvdailyupdates/cvdailyupdates.github.io)
 
 Copyright: I hereby grant blanket permission for anyone to copy any part
 of my daily updates, as long as they credit the site.
