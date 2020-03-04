@@ -1,0 +1,158 @@
+### Read First
+
+[About This Site](about.md)
+
+----
+
+### Good Sources
+
+I have no affiliation with any of these links. They are my personal
+recommendations
+
+[Dr John Campbell, NHS medical
+instructor](https://www.youtube.com/user/Campbellteaching)
+
+[Practical tips to protect yourself in an
+epidemic](http://beatthecoronavirus.com/)
+
+[In-Depth Prepping Guide](https://theprepared.com/wuhan-coronavirus/)
+
+[Report of the WHO-China Joint Mission on Coronavirus Disease 2019](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf). This should be considered the most official source of truth about this crisis at this time.
+
+[Johns Hopkins Crisis
+Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
+[Worldometer Coronavirus Page](https://www.worldometers.info/coronavirus/). At-a-glance numbers and summaries
+
+[BNO Newsroom
+Twitter](https://twitter.com/BNODesk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+possibly the single best journalistic source to follow
+
+[Broadcastify](https://www.broadcastify.com/). Listen in to police, fire, and EMS radios. Might be useful for primary-source information
+
+----
+
+### Previous Updates
+
+#### March
+
+[2020.03.03](updates/2020.03/03.md)
+
+----
+
+### Today's Update (2020.03.03)
+
+Apologies. I will try to be better about posting sources tomorrow, but I
+didn't keep track of them when I wrote this
+
+### Personal:
+
+* I have transitioned to full time work-from-home
+* Temp 98, SPO2 99%
+* Most recent exposure to someone who was visibly sick: 2020.02.25
+
+### Iran:
+
+* Still really really bad. Highest end of death count estimates is 3000ish total. [8% of their governing MPs are infected.](https://edition.cnn.com/asia/live-news/coronavirus-outbreak-03-03-20-intl-hnk/h_13306122baecfcaa123a7ca59478d0d6)
+* Apparently municipal water pressure is down. This implies a lot of people are washing their hands a lot. It also implies they're not dead, which is reassuring
+* Releasing prisoners from prisons to avoid prison spread. This is presumed to represent a general loss of state-governing capacity.
+
+### Korea:
+
+* "State of war" declared (i believe this is rhetorical not formal)
+* ~5000 documented cases
+
+### Italy:
+
+* Death rate significantly higher than chinese numbers, WHO numbers, korean numbers, singaporean numbers. Unclear if real or sampling bias
+* Getting ready to (already started?) full on no-in-no-out cordon sanitaire around epicenter towns
+
+### China:
+
+* Not a lot of media coming out of China lately, leaks or otherwise
+* Official numbers suggest China actually does have this under control. WHO confirms this
+* At this time, I provisionally believe this, if for no other reason than that their draconian quarantines must have worked
+
+### WHO:
+
+* WHO formally announced [fatality rate of
+3.5%](https://twitter.com/WHO/status/1234872254883909642)
+* WHO formally announced that [this is worse than the
+flu](https://twitter.com/WHO/status/1234872254883909642)
+
+### US:
+
+* Our authorities are still so incompetent it looks like malice
+* 9 are now dead, 8 in King County (Seattle), 1 in Snohomish County (Seattle Suburb). The official count of US patients is 102
+* [Georgia confirmed 2
+  infected](https://twitter.com/BNODesk/status/1234675316380954624)
+* [North Carolina confirmed an
+  infected](https://twitter.com/BNODesk/status/1234939044359962625)
+* Testing kits are still not being made available. Presumably they still don't work.
+* [Some epidemiologist(?) went on CBS news](https://www.cbsnews.com/news/coronavirus-infection-outbreak-worldwide-virus-expert-warning-today-2020-03-02/) to give a coronavirus primer and while he downplayed it he did say at one point that in all likelihood millions of Americans will die from this
+* [Man wearing mask apparently collapses on sidewalk in New York](https://www.cbsnews.com/news/coronavirus-infection-outbreak-worldwide-virus-expert-warning-today-2020-03-02/). OH GOD I HOPE THIS ISN'T REAL
+
+### Texas:
+
+* [San Antonio lost their lawsuit](https://www.ksat.com/news/local/2020/03/03/judge-denies-san-antonios-court-filing-to-prevent-release-of-coronavirus-evacuees/) suing the federal government to prevent them from releasing all their quarantined people from the airforce base
+* [San Antonio declared state of emergency](https://www.expressnews.com/news/local/article/San-Antonio-to-feds-Keep-coronavirus-evacuees-in-15098761.php). I think this lets them use emergency powers to override the legal ruling
+* Rumours of infection at Houston hospital
+* [At least one person awaiting test results in
+  Austin](https://www.statesman.com/news/20200303/travis-county-testing-at-least-one-person-for-new-coronavirus).
+Knowing nothing about the case other than that they are waiting for test
+results, I would assume that they are infected
+* SXSW is still not cancelled
+* [The following have pulled out of
+  SXSW](https://www.austin360.com/entertainment/20200303/sxsw-2020-and-coronavirus-herersquos-whos-not-coming):
+Facebook, Jack Dorsey, Intel, Vevo, Mashable, TikTok, Tim Ferris
+
+### Tech:
+
+* My employer continues to make aggressive WFH preparations while
+  denying any explicit WFH plans at this time. I am inclined to believe
+  them. Overall not super impressed with their response but it has been
+  acceptable
+* [Google staged a WFH "drill" in Dublin today.](https://www.businessinsider.com/google-dublin-coronavirus-work-from-home-twitter-coinbase-2020-3) They are extending the drill to tomorrow. Assumption is that it's not a drill
+* [Google "cancels in-person attendance" at Google IO](https://twitter.com/BNODesk/status/1234943293299056640?s=09). This is a very big tech conference, if google's doing this it's serious
+* [Coinbase internal preparedness document leaked](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/preview#). It is shockingly reasonable. If other tech companies have similar internal documents, that is reassuring
+
+### Science:
+
+* Prevotella rumours remain unaddressed (tldr [virus somehow binds to a common gut bacteria and this helps spread it undetectibly](https://www.researchgate.net/publication/339008515_The_2019_Wuhan_outbreak_is_caused_by_the_bacteria_Prevotella_which_is_aided_by_the_coronavirus_possibly_to_adhere_to_epithelial_cells_-_Prevotella_is_present_in_huge_amounts_in_patients_from_both_Chin)). I am not a biologist and have no ability to judge whether this is plausible or insane
+* Small children are starting to test positive but still do not ever show symptoms. [Some experts wondering if this spreads undetected via kids as carriers](https://twitter.com/DrJeanneM/status/1234838382661910528)
+* People continue to test positive several weeks after being declared recovered. I am not yet aware of any case where this happens and the 'recovered' person gets sick again. My current belief is that this is bad tests
+* Chinese doctors hypothesize unreliability of tests due to checking for _lower_ respiratory tract virus via _upper_ respiratory tract swabs
+
+### Market:
+
+* The federal reserve cut interest rates by 0.5 percentage points
+* This should have made the market go up
+* The market did not go up. RIP my retirement
+
+### Politics:
+
+* Possibility that Boris Johnson has been exposed to infection (Shook hands with people in a coronavirus hospital for PR like a fucking idiot)
+* Possibility that Benjamin Netanyahu has been exposed to infection (extended close contact with a general that is currently in quarantine coming back from asia. Forget if general is diagnosed or not)
+* Possibility that Mike Pence has been exposed to infection ([Shook hands with a school student](https://twitter.com/jenniferjjacobs/status/1234822447947558915?s=21) whose classmate has since been quarantined
+* Vatican formally states that [Pope had coronavirus test that came back negative](https://www.foxnews.com/world/pope-francis-tests-negative-for-coronavirus-after-catching-cold-report). I am not sure I believe them. Even if true that he tested negative, I'm not sure it matters; the tests are very unreliable
+
+### Predictions:
+
+* My city will have its first confirmed case in a matter of days. I assume that we will see an explosion of identified cases a few days after that, as we did in Washington state, but this depends on whether or not test kits are made available
+* At least one tech company will go 100% mandatory work from home in at least one US city by the end of next week
+* Some level of lockdown will be implemented in some location (likely WA) in the US by the end of next week (50% confidence) or by the end of the month (95% confidence)
+* Some level of widespread lockdown that personally impacts me will be implemented by the end of the month (60% confidence)
+
+### Prescriptions:
+
+* It may be time to put "do not go out into public for any reason at all unless your life depends on it" plans into action within the next 2-3 weeks
+
+### Misc:
+
+* Currently there are questions regarding how many people who get this disease and are asymptomatic. We do not have good data on this
+* Going by WHO report, the answer is 0%: "Asymptomatic infection has been reported, but the majority of the relatively rare cases who are asymptomatic on the date of identification/report went on to develop disease. The proportion of truly asymptomatic infections is unclear but appears to be relatively rare and does not appear to be a major driver of transmission."
+* Going by what apparently happened on the Diamond Princess, assuming that everyone on board got infected, the answer is 60% are asymptomatic (I'm eyeballing it, looks like about 1/3rd of the passengers got sick?)
+* Going by the weird cult church in Korea, about 40% of people who are confirmed positive by test show no symptoms
+
+
+
