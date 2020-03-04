@@ -1,6 +1,7 @@
 ### Read First
 
-[About This Site](about.md)
+[About This Site](about/about.md)
+[About The Pandemic](about/ncov.md)
 
 ----
 
