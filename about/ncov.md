@@ -78,7 +78,7 @@ pandemic](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak) cu
 [SARS-CoV-2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2),
 and the disease it causes is officially called
 [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019) (from
-"Coronavirus Disease 2019) and colloquially called "Wuhan Flu", from
+"Coronavirus Disease 2019") and colloquially called "Wuhan Flu", from
 where it was first recognized.
 
 SARS-CoV-2 is an extremely contagious, moderately lethal disease. We
