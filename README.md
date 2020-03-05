@@ -45,7 +45,7 @@ though the WHO data is more "official"
 
 #### March
 
-[2020.03.03](updates/2020.03/03.md)
+[2020.03.03](updates/2020.03/03.md) / 
 [2020.03.04](updates/2020.03/04.md)
 
 ----
