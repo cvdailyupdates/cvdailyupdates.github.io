@@ -71,11 +71,11 @@ the source can be seen [on
 Github](https://github.com/cvdailyupdates/cvdailyupdates.github.io). If
 you think you have found an error on my site, feel free to open a pull
 request to correct it. If you think there is something I should cover
-but have missed, feel free to open a pull request about that as well,
-however be aware that this is my curated opinion blog, and I may reject
-content PRs for any reason or no reason at all. However, by opening PRs,
-there will be a record, so that people can judge for themselves whether
-or not I am making good editorial decisions
+but have missed, feel free to open an issue about that, however be aware
+that this is my curated opinion blog, and I may reject content PRs for
+any reason or no reason at all. However, by opening issues, there will
+be a record, so that people can judge for themselves whether or not I
+am making good editorial decisions
 
 Copyright: I hereby grant blanket permission for anyone to copy any part
 of my daily updates, as long as they credit the site.
