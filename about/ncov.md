@@ -1,3 +1,5 @@
+[Back to homepage](../README.md)
+
 ## What is the Coronavirus?
 
 The following is my summary of this pathogen. I highly encourage you to

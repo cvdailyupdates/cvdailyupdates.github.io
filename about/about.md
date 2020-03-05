@@ -1,4 +1,4 @@
-[back to homepage](README.md)
+[back to homepage](../README.md)
 
 ## Welcome
 
