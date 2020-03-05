@@ -49,119 +49,186 @@ though the WHO data is more "official"
 
 ----
 
-### Today's Update (2020.03.03)
+### Today's Update (2020.03.04)
 
-Apologies. I will try to be better about posting sources tomorrow, but I
-didn't keep track of them when I wrote this
+### Official Numbers:
 
-### Personal:
+* 95,413 confirmed infected
+* 3,285 confirmed deaths
+* 53,257 confirmed recoveries
+* 80,409 cases in Mainland China
+* 5,766 cases in South Korea
+* 3,089 cases in Italy
+* 2,922 cases in Iran
+* 331 cases in Japan
+* 285 cases in Germany
+* 222 cases in Spain
+* 158 cases in the US (I believe the real number is at least 10x this)
+* 110 cases in Singapore
+* 105 cases in Hong Kong
+* No other countries reporting >100 cases at this time
 
-* I have transitioned to full time work-from-home
-* Temp 98, SPO2 99%
-* Most recent exposure to someone who was visibly sick: 2020.02.25
+### Website and Links:
+
+* Added [About the Virus](../../about/ncov.md) page
+* [Is It Cancelled Yet?](https://www.isitcanceledyet.com/) Funny site to let
+  you know at a glance what events have been cancelled.
+
+### Personal
+
+* A friend of mine found out today that a personal contact of his in the
+  Bay Area is confirmed infected. 60 year old man. He is currently in
+  self-quarantine at home and seems to be doing well so far
 
 ### Iran:
 
-* Still really really bad. Highest end of death count estimates is 3000ish total. [8% of their governing MPs are infected.](https://edition.cnn.com/asia/live-news/coronavirus-outbreak-03-03-20-intl-hnk/h_13306122baecfcaa123a7ca59478d0d6)
-* Apparently municipal water pressure is down. This implies a lot of people are washing their hands a lot. It also implies they're not dead, which is reassuring
-* Releasing prisoners from prisons to avoid prison spread. This is presumed to represent a general loss of state-governing capacity.
+* [Iran has mobilized the
+  army](https://globalnews.ca/news/6622645/iran-coronavirus-death-toll-army/) to deal with the plague
+
+### India
+
+* [India is rapidly gaining
+  cases](https://twitter.com/WarsontheBrink/status/1235064476870651906?s=20). I'm honestly surprised they went this long without finding any. Given what I've heard of the state of public sanitation in India, this could be _very_ bad
 
 ### Korea:
 
-* "State of war" declared (i believe this is rhetorical not formal)
-* ~5000 documented cases
+* [Hospital bed shortage in
+  Korea](https://www.reuters.com/article/us-health-coronavirus-southkorea/thousands-wait-for-hospital-beds-in-south-korea-as-coronavirus-cases-surge-idUSKBN20R05M).
+  Pay close attention to this, it's just a matter of _**weeks**_ before
+  the US has the same problem
 
 ### Italy:
 
-* Death rate significantly higher than chinese numbers, WHO numbers, korean numbers, singaporean numbers. Unclear if real or sampling bias
-* Getting ready to (already started?) full on no-in-no-out cordon sanitaire around epicenter towns
+* [Italy to close all schools due to
+  coronavirus](https://twitter.com/bnodesk/status/1235187396251127811?s=21)
 
 ### China:
 
-* Not a lot of media coming out of China lately, leaks or otherwise
-* Official numbers suggest China actually does have this under control. WHO confirms this
-* At this time, I provisionally believe this, if for no other reason than that their draconian quarantines must have worked
+* Nothing to report
+
+### Singapore:
+
+* Singaporean government has [released an online
+  dashboard](https://co.vid19.sg/dashboard)
 
 ### WHO:
 
-* WHO formally announced [fatality rate of
-3.5%](https://twitter.com/WHO/status/1234872254883909642)
-* WHO formally announced that [this is worse than the
-flu](https://twitter.com/WHO/status/1234872254883909642)
+* Nothing to report
+
+### Europe:
+
+* Confirmed infection [in EU offices in
+  Brussels](https://twitter.com/BNODesk/status/1235164637739601921?s=09)
+
+### Israel:
+
+* Possible [exposure at
+  AIPAC](https://twitter.com/cnbc/status/1235392555195514885?s=21).
+  (Yes, I know this is technically in the US, but the US section was
+  already too big)
+* [Tens of thousands](https://www.jpost.com/Breaking-News/Three-new-cases-of-coronavirus-announced-in-Israel-619680) under some level of quarantine or self-isolation in Israel
 
 ### US:
 
-* Our authorities are still so incompetent it looks like malice
-* 9 are now dead, 8 in King County (Seattle), 1 in Snohomish County (Seattle Suburb). The official count of US patients is 102
-* [Georgia confirmed 2
-  infected](https://twitter.com/BNODesk/status/1234675316380954624)
-* [North Carolina confirmed an
-  infected](https://twitter.com/BNODesk/status/1234939044359962625)
-* Testing kits are still not being made available. Presumably they still don't work.
-* [Some epidemiologist(?) went on CBS news](https://www.cbsnews.com/news/coronavirus-infection-outbreak-worldwide-virus-expert-warning-today-2020-03-02/) to give a coronavirus primer and while he downplayed it he did say at one point that in all likelihood millions of Americans will die from this
-* [Man wearing mask apparently collapses on sidewalk in New York](https://www.cbsnews.com/news/coronavirus-infection-outbreak-worldwide-virus-expert-warning-today-2020-03-02/). OH GOD I HOPE THIS ISN'T REAL
+* [Pence claims we can start testing in force next
+  week](https://twitter.com/katierogers/status/1234977487190290432?s=21) given all the rumours we see about tests being denied and tests not working, I'm pressing X to doubt this.
+* [People continue to
+  claim](https://twitter.com/thehill/status/1235227029043318785?s=21)
+  that testing is being denied to them.
+* CDC claims [testing now offered with nothing but doctor's
+  approval](https://www.nytimes.com/2020/03/04/health/coronavirus-test-demand.html?referringSource=articleShare).
+  I remain baffled as to why the fuck hospitals didn't just test and damn
+  the consequences
+* [No audio or video was allowed at the recent Coronavirus
+  briefing](https://www.reddit.com/r/China_Flu/comments/fd496w/white_house_does_not_allow_video_or_audio/). This is extremely ominous
+* Bay area spread increases with [first case confirmed in Berkeley](https://www.berkeleyside.com/2020/03/03/city-of-berkeley-reports-first-coronavirus-patient). I have friends who live there, I hope they will be ok.
+* Emerald City Comic Con in Seattle is still on next week.
+* [Continued
+  reports](https://www.reddit.com/r/CoronavirusUS/comments/fd6f8c/my_friend_and_his_wife_and_kid_just_came_through/) that screening in US airports is non-existant.
+* [California reports first coronavirus
+  death](https://twitter.com/BNODesk/status/1235283973670137856)
+* [LA County declares state of emergency](https://twitter.com/bnodesk/status/1235243372283129856?s=21)
+* [There is a new cruise ship under
+  quarantine](https://twitter.com/bnodesk/status/1235358098505728003?s=21)
+  off the coast of San Francisco. To be honest, it's been what, two
+  weeks since the Diamond Princess quarantine ended, and as far as I know
+  only about 10% of the passengers who were infected had serious
+  illness. This could be wrong, of course, as I imagine it's impossible to
+  follow up on everyone after they went home
+* Miami postpones [Ultra Music
+  Festival](https://twitter.com/miamiherald/status/1235332517097623552?s=21).
+  Thank god, we need more cancellations like this
+* [Virus confirmed in
+  Houston](https://twitter.com/HoustonPubMedia/status/1235346844579966976)
+* [Virus confirmed in New
+  Jersey](https://twitter.com/GovMurphy/status/1235375867917930498?s=20)
+* Anecdote from a friend: everybody in his WoW guild, most of whom live
+  in bumfuck nowhere, USA, know of a presumptive case nearby. This seems
+  to be everywhere
+* [Anecdote from
+  Reddit](https://www.reddit.com/r/CoronavirusFOS/comments/fdofmd/a_report_from_seattle_its_worse_than_is_being/):
+  Situation in Seattle is much worse than we're told. Google allegedly
+  censoring Seattle Times in their search results to suppress extent of
+  coronavirus infection. 18 confirmed cases, 6 dead, 48 schools closed,
+  estimated 2000 undiagnosed cases. Be aware that r/CoronavirusFOS is
+  relatively unmoderated, and judge what you read accordingly
 
-### Texas:
 
-* [San Antonio lost their lawsuit](https://www.ksat.com/news/local/2020/03/03/judge-denies-san-antonios-court-filing-to-prevent-release-of-coronavirus-evacuees/) suing the federal government to prevent them from releasing all their quarantined people from the airforce base
-* [San Antonio declared state of emergency](https://www.expressnews.com/news/local/article/San-Antonio-to-feds-Keep-coronavirus-evacuees-in-15098761.php). I think this lets them use emergency powers to override the legal ruling
-* Rumours of infection at Houston hospital
-* [At least one person awaiting test results in
-  Austin](https://www.statesman.com/news/20200303/travis-county-testing-at-least-one-person-for-new-coronavirus).
-Knowing nothing about the case other than that they are waiting for test
-results, I would assume that they are infected
-* SXSW is still not cancelled
-* [The following have pulled out of
-  SXSW](https://www.austin360.com/entertainment/20200303/sxsw-2020-and-coronavirus-herersquos-whos-not-coming):
-Facebook, Jack Dorsey, Intel, Vevo, Mashable, TikTok, Tim Ferris
+### Canada:
+
+* Bank of Canada [lowers the interest rate by 50 basis
+  points](https://www.bankofcanada.ca/2020/03/fad-press-release-2020-03-04/),
+  following the US' lead.
+* Canadian military [preparing to respond to
+  pandemic](https://ottawacitizen.com/news/national/defence-watch/canadian-military-starts-initial-preparations-for-responding-to-pandemic). I expect the US army to have to do similar before this is over.
+* Personal eyewitness anecdote from trusted friend: "Costco had lineups before open. They're sanitizing each cart as it comes through the doors. Costco is completely out of store-brand TP. Name brand is being cleared out literally as fast as they can drag pallets onto the floor. Lots of holes in the shelf-stable food section. Walmart is almost as bad re: TP and shelf-stable food. Pharmacy and toiletries sections are wrecked. More open shelving than full in some aisles. Walmart is definitely having supply issues. They can't fill their Easter seasonal displays. This matches with a bunch of regular Easter seasonal stuff not being in stock anywhere. The ethnic shoppers have hit the local wholesale stores. Lots of Canadian food, but ethnic food (specific kinds of beans/lentils/rice) are wiped out.". This matches the reports of US Costcos and Walmarts being emptied too. I am happy to say that where I live, I haven't been to Costco in a few weeks, but Walmart was fully stocked on Saturday. My local grocery store showing a handful of missing SKUs in the pasta aisle, but for all I know they restock on Wednesdays and I went at a bad time. Otherwise, it's good.
+
 
 ### Tech:
 
-* My employer continues to make aggressive WFH preparations while
-  denying any explicit WFH plans at this time. I am inclined to believe
-  them. Overall not super impressed with their response but it has been
-  acceptable
-* [Google staged a WFH "drill" in Dublin today.](https://www.businessinsider.com/google-dublin-coronavirus-work-from-home-twitter-coinbase-2020-3) They are extending the drill to tomorrow. Assumption is that it's not a drill
-* [Google "cancels in-person attendance" at Google IO](https://twitter.com/BNODesk/status/1234943293299056640?s=09). This is a very big tech conference, if google's doing this it's serious
-* [Coinbase internal preparedness document leaked](https://docs.google.com/document/d/1SRP4dnVCvKB7A5WXrESe-cL51i6_cg5nNGLNld6qch0/preview#). It is shockingly reasonable. If other tech companies have similar internal documents, that is reassuring
+* [Amazon employee in Seattle office confirmed
+  infected](https://www.seattletimes.com/business/amazon/amazon-employee-in-seattle-has-tested-positive-for-illness-caused-by-coronavirus/). I expect other tech companies to respond to this with aggressive, urgent measures.
+* [Indeed has mandated work-from-home for all employees
+  worldwide](https://www.kxan.com/news/local/austin/indeed-asks-all-employees-to-work-from-home-halt-business-travel-due-to-coronavirus/). No employees are confirmed infected at this time.
+* [Facebook contractor in Seattle confirmed
+  infected](https://twitter.com/TedLandK5/status/1235413276420259840)
+
 
 ### Science:
 
-* Prevotella rumours remain unaddressed (tldr [virus somehow binds to a common gut bacteria and this helps spread it undetectibly](https://www.researchgate.net/publication/339008515_The_2019_Wuhan_outbreak_is_caused_by_the_bacteria_Prevotella_which_is_aided_by_the_coronavirus_possibly_to_adhere_to_epithelial_cells_-_Prevotella_is_present_in_huge_amounts_in_patients_from_both_Chin)). I am not a biologist and have no ability to judge whether this is plausible or insane
-* Small children are starting to test positive but still do not ever show symptoms. [Some experts wondering if this spreads undetected via kids as carriers](https://twitter.com/DrJeanneM/status/1234838382661910528)
-* People continue to test positive several weeks after being declared recovered. I am not yet aware of any case where this happens and the 'recovered' person gets sick again. My current belief is that this is bad tests
-* Chinese doctors hypothesize unreliability of tests due to checking for _lower_ respiratory tract virus via _upper_ respiratory tract swabs
+* [Potential successful anti-viral medical
+treatment](https://www.theolivepress.es/spain-news/2020/03/02/hiv-drug-successfully-treats-coronavirus-patient-in-medical-first-in-spains-andalucia/)
+* Relapse news: the British couple that vlogged from the Diamond Princess [have started testing positive again](https://www.youtube.com/watch?v=wGHjq3FPHEE). They don't sound particularly sick to me. Keep an eye on them. If they get sick again, that is very bad news.
+* Chinese scientists claim [they've identified two different
+  strains](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa036/5775463):
+  L-CoV and S-CoV. S-CoV is evolutionarily older. It is milder and more
+  surviveable, and makes up ~30% of cases. L-CoV is much more dangerous
+  and lethal, and makes up 70% of cases. L-type was more prevalent at the
+  early stages of the outbreak but scientists believe it is being selected
+  against. Good news, if true, it might mean that this disease will evolve
+  quickly to be less lethal
+* [Acetyl-L-Carnitine](https://en.wikipedia.org/wiki/Acetylcarnitine)
+  may be useful [for prevening viral infection](https://patents.google.com/patent/US5314689A/en). As always, this site is never medical advice, but ALCAR is cheap and available at your local pharmacy, so it can't hurt if you want to try it
+* Team of medical experts [does AMA on
+  reddit](https://www.reddit.com/r/Coronavirus/comments/fdf5fq/we_are_a_team_of_medical_experts_following/).
+  I am not terribly impressed with their commentary, but overall it is
+  good.
+* Regeneron claims to [have treatment ready for testing by
+  August](https://m.timesunion.com/business/article/Regeneron-hopes-to-have-COVID-19-treatment-by-15104995.php).
+  Good news if true, but don't get your hopes up: testing for safety takes
+  a considerable amount of time on the best of projects, and anti-virals
+  are a hard problem.
+
 
 ### Market:
 
-* The federal reserve cut interest rates by 0.5 percentage points
-* This should have made the market go up
-* The market did not go up. RIP my retirement
+* Credit Suisse [newsletter about the COVID-19
+  pandemic](https://plus.credit-suisse.com/rpc4/ravDocView?docid=V7k0P32AN-XtNl).
+  I don't understand nearly enough finance to make sense of this, but it
+  sounds like they're saying "we're fucked"
 
 ### Politics:
 
-* Possibility that Boris Johnson has been exposed to infection (Shook hands with people in a coronavirus hospital for PR like a fucking idiot)
-* Possibility that Benjamin Netanyahu has been exposed to infection (extended close contact with a general that is currently in quarantine coming back from asia. Forget if general is diagnosed or not)
-* Possibility that Mike Pence has been exposed to infection ([Shook hands with a school student](https://twitter.com/jenniferjjacobs/status/1234822447947558915?s=21) whose classmate has since been quarantined
-* Vatican formally states that [Pope had coronavirus test that came back negative](https://www.foxnews.com/world/pope-francis-tests-negative-for-coronavirus-after-catching-cold-report). I am not sure I believe them. Even if true that he tested negative, I'm not sure it matters; the tests are very unreliable
+* Nothing to report
 
-### Predictions:
-
-* My city will have its first confirmed case in a matter of days. I assume that we will see an explosion of identified cases a few days after that, as we did in Washington state, but this depends on whether or not test kits are made available
-* At least one tech company will go 100% mandatory work from home in at least one US city by the end of next week
-* Some level of lockdown will be implemented in some location (likely WA) in the US by the end of next week (50% confidence) or by the end of the month (95% confidence)
-* Some level of widespread lockdown that personally impacts me will be implemented by the end of the month (60% confidence)
-
-### Prescriptions:
-
-* It may be time to put "do not go out into public for any reason at all unless your life depends on it" plans into action within the next 2-3 weeks
-
-### Misc:
-
-* Currently there are questions regarding how many people who get this disease and are asymptomatic. We do not have good data on this
-* Going by WHO report, the answer is 0%: "Asymptomatic infection has been reported, but the majority of the relatively rare cases who are asymptomatic on the date of identification/report went on to develop disease. The proportion of truly asymptomatic infections is unclear but appears to be relatively rare and does not appear to be a major driver of transmission."
-* Going by what apparently happened on the Diamond Princess, assuming that everyone on board got infected, the answer is 60% are asymptomatic (I'm eyeballing it, looks like about 1/3rd of the passengers got sick?)
-* Going by the weird cult church in Korea, about 40% of people who are confirmed positive by test show no symptoms
-
-
-
+Updated 2020.03.04 22:28 CST
