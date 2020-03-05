@@ -23,7 +23,9 @@ repo](https://github.com/cvdailyupdates/cvdailyupdates.github.io)
 <details>
   <summary>
 {% endraw %}
+
 ### China:
+
 {% raw %}
   </summary>
 {% endraw %}
@@ -36,6 +38,7 @@ repo](https://github.com/cvdailyupdates/cvdailyupdates.github.io)
   numbers look better. If, as the one recent article said, 14% of
   'recovered' patients are getting sick again, I'd expect a lot more than
   _one_ death
+
 {% raw %}
 </summary>
 {% endraw %}
