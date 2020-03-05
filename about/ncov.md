@@ -168,7 +168,7 @@ know that the average death rate for people under age 40 is only 0.2%
 (ten times lower!). What we don't know is how many of those younger
 people are severe cases. Does their lower death rate mean that they just
 don't get as sick? Or do younger people need to be hospitalized just as
-much, but they recover just as often? We just don't know.
+much, but they recover more often? We just don't know.
 
 ### What's up with those social media videos?
 
