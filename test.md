@@ -46,12 +46,11 @@ though the WHO data is more "official"
 #### March
 
 [2020.03.03](updates/2020.03/03.md)
+
 [2020.03.04](updates/2020.03/04.md)
 
 ----
 
-{% raw %}
-<iframe src="/updates/2020.03/04.html">
-{% endraw %}
+{% include_relative updates/2020.03/04.md %}
 
 Updated 2020.03.04 22:28 CST
