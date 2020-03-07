@@ -54,11 +54,12 @@ though the WHO data is more "official"
 [2020.03.04](updates/2020.03/04.md) /
 [2020.03.05](updates/2020.03/05.md) /
 [2020.03.06](updates/2020.03/06.md) /
+[2020.03.07](updates/2020.03/07.md)
 
 ----
 
 ### Today's Update
 
-{% include_relative updates/2020.03/06.md %}
+{% include_relative updates/2020.03/07.md %}
 
-Updated 2020.03.06 23:03 CST
+Updated 2020.03.07 16:29 CST
