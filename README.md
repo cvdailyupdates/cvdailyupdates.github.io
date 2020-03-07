@@ -1,10 +1,13 @@
-## Coronavirus Daily Updates
+## Coronavirus Daily Update
+
 
 ### Read First
 
 [About This Site](about/about.md)
 
 [About The Pandemic](about/ncov.md)
+
+[RSS Feed(?)](/feed.xml)
 
 ----
 
