@@ -7,7 +7,7 @@
 
 [About The Pandemic](about/ncov.md)
 
-[RSS Feed(?)](/feed.xml)
+[RSS Feed](/feed.xml)
 
 ----
 
@@ -52,12 +52,13 @@ though the WHO data is more "official"
 
 [2020.03.03](updates/2020.03/03.md) /
 [2020.03.04](updates/2020.03/04.md) /
-[2020.03.05](updates/2020.03/05.md)
+[2020.03.05](updates/2020.03/05.md) /
+[2020.03.06](updates/2020.03/06.md) /
 
 ----
 
 ### Today's Update
 
-{% include_relative updates/2020.03/05.md %}
+{% include_relative updates/2020.03/06.md %}
 
 Updated 2020.03.04 22:28 CST
