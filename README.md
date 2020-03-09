@@ -60,6 +60,6 @@ though the WHO data is more "official"
 
 ### Today's Update
 
-{% include_relative updates/2020.03/07.md %}
+{% include_relative updates/2020.03/08.md %}
 
-Updated 2020.03.07 16:29 CST
+Updated 2020.03.09 00:40 CST
