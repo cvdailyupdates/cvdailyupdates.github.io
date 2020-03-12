@@ -58,13 +58,14 @@ though the WHO data is more "official"
 [2020.03.08](updates/2020.03/08.md) /
 [2020.03.09](updates/2020.03/09.md) /
 [2020.03.10](updates/2020.03/10.md) /
-[2020.03.11](updates/2020.03/11.md)
+[2020.03.11](updates/2020.03/11.md) /
+[2020.03.12](updates/2020.03/12.md)
 
 
 ----
 
 ### Today's Update
 
-{% include_relative updates/2020.03/11.md %}
+{% include_relative updates/2020.03/12.md %}
 
-Updated 2020.03.10 18:48 CST
+Updated 2020.03.12 17:55 CDT
