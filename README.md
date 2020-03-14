@@ -69,4 +69,4 @@ though the WHO data is more "official"
 
 {% include_relative updates/2020.03/13.md %}
 
-Updated 2020.03.12 17:55 CDT
+Updated 2020.03.13 20:12 CDT
