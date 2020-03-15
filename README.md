@@ -60,13 +60,14 @@ though the WHO data is more "official"
 [2020.03.10]({% post_url 2020-03-10-Update-2020.03.10 %}) /
 [2020.03.11]({% post_url 2020-03-11-Update-2020.03.11 %}) /
 [2020.03.12]({% post_url 2020-03-12-Update-2020.03.12 %}) /
-[2020.03.13]({% post_url 2020-03-13-Update-2020.03.13 %})
+[2020.03.13]({% post_url 2020-03-13-Update-2020.03.13 %}) /
+[2020.03.14]({% post_url 2020-03-14-Update-2020.03.14 %})
 
 
 ----
 
 ### Today's Update
 
-{% include_relative _posts/2020-03-13-Update-2020.03.13.md %}
+{% include_relative _posts/2020-03-14-Update-2020.03.14.md %}
 
-Updated 2020.03.13 20:12 CDT
+Updated 2020.03.14 19:37 CDT
