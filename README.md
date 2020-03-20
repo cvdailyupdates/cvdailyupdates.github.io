@@ -1,3 +1,6 @@
+{% assign sortedposts = site.posts | sort: 'date' | reverse %}
+{% assign newestpost = sortedposts | first  %}
+
 ## Coronavirus Daily Update
 
 
@@ -48,31 +51,12 @@ though the WHO data is more "official"
 
 ### Previous Updates
 
-#### March
-
-[2020.03.03]({% post_url 2020-03-03-Update-2020.03.03 %}) /
-[2020.03.04]({% post_url 2020-03-04-Update-2020.03.04 %}) /
-[2020.03.05]({% post_url 2020-03-05-Update-2020.03.05 %}) /
-[2020.03.06]({% post_url 2020-03-06-Update-2020.03.06 %}) /
-[2020.03.07]({% post_url 2020-03-07-Update-2020.03.07 %}) /
-[2020.03.08]({% post_url 2020-03-08-Update-2020.03.08 %}) /
-[2020.03.09]({% post_url 2020-03-09-Update-2020.03.09 %}) /
-[2020.03.10]({% post_url 2020-03-10-Update-2020.03.10 %}) /
-[2020.03.11]({% post_url 2020-03-11-Update-2020.03.11 %}) /
-[2020.03.12]({% post_url 2020-03-12-Update-2020.03.12 %}) /
-[2020.03.13]({% post_url 2020-03-13-Update-2020.03.13 %}) /
-[2020.03.14]({% post_url 2020-03-14-Update-2020.03.14 %}) /
-[2020.03.15]({% post_url 2020-03-15-Update-2020.03.15 %}) /
-[2020.03.16]({% post_url 2020-03-16-Update-2020.03.16 %}) /
-[2020.03.17]({% post_url 2020-03-17-Update-2020.03.17 %}) /
-[2020.03.18]({% post_url 2020-03-18-Update-2020.03.18 %}) /
-[2020.03.19]({% post_url 2020-03-19-Update-2020.03.19 %})
-
+{% for post in sortedposts reversed limit:10 %}{% if post.previous and post.next %}{% if forloop.first == false %} / {% endif %}[{{ post.date | date:"%Y.%m.%d" }}]({{ post.url }}){% endif %}{% endfor %}
 
 ----
 
 ### Today's Update
 
-{% include_relative _posts/2020-03-19-Update-2020.03.19.md %}
+{% include_relative {{ newestpost.path }} %}
 
 Updated 2020.03.19 19:31 CDT
