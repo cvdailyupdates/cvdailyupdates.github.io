@@ -1,5 +1,5 @@
-{% assign sortedposts = site.posts | sort: 'date' | reverse %}
-{% assign newestpost = sortedposts | first  %}
+{% assign sortedposts = site.posts | sort: 'date' %}
+{% assign newestpost = sortedposts | last  %}
 
 ## Coronavirus Daily Update
 
@@ -51,7 +51,7 @@ though the WHO data is more "official"
 
 ### Previous Updates
 
-{% for post in sortedposts reversed %}{% if post.previous and post.next %}{% unless forloop.first %} / {% endunless %}[{{ post.date | date:"%Y.%m.%d" }}]({{ post.url }}){% endif %}{% endfor %}
+{% for post in sortedposts %}{% if post.previous and post.next %}{% unless forloop.first %} / {% endunless %}[{{ post.date | date:"%Y.%m.%d" }}]({{ post.url }}){% endif %}{% endfor %}
 
 ----
 
