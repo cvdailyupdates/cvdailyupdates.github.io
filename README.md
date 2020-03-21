@@ -51,7 +51,7 @@ though the WHO data is more "official"
 
 ### Previous Updates
 
-{% for post in sortedposts reversed %}{% if post.previous and post.next %}{% if (forloop.first == false and forloop.last == false) %} / {% endif %}[{{ post.date | date:"%Y.%m.%d" }}]({{ post.url }}){% endif %}{% endfor %}
+{% for post in sortedposts reversed %}{% if post.previous and post.next %}{% unless forloop.first %} / {% endunless %}[{{ post.date | date:"%Y.%m.%d" }}]({{ post.url }}){% endif %}{% endfor %}
 
 ----
 
