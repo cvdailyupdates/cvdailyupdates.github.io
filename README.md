@@ -3,6 +3,32 @@
 
 ## Coronavirus Daily Update
 
+This site is on pause until further notice. I have become convinced that
+the disease is not a big deal if you are not retiree-aged, and in light of
+this, the lockdown measures are harder to accept. Meanwhile, I am
+becoming increasingly distraught at the zeal with which everyone I know
+are eagerly begging for stricter and ever more arbitrary measures.
+Finally, the mixed messaging, the cutesy corporate-saccharine slogans,
+the weird obsession with arbitrary constraints like "6 feet distance",
+is feelingly more dystopian to me every day.
+
+I need to take a break on this. Until further notice, I will not be
+updating this site. In the mean time, these are the only updates you
+need:
+
+* This disease will probably kill your elderly relatives
+* This disease will kill a very, very small fraction of your non-elderly
+  relatives
+* There are no viable treatments to this disease. A vaccine will not be
+  available for years, and if one is available earlier I strongly
+  recommend not taking it. One way or another, everyone, or almost
+  everyone, are getting infected
+* Most of the public health measures being taken shouldn't be. Most of
+  the public health measures that should be taken aren't. This will not
+  change
+* Most of the people with authority care more about lockdown and related
+  rights infringements for their own sake than they do about any public
+  health goals
 
 ### Read First
 
@@ -53,10 +79,5 @@ though the WHO data is more "official"
 
 {% for post in sortedposts %}{% unless forloop.first %} / {% endunless %}[{{ post.date | date:"%Y.%m.%d" }}]({{ post.url }}){% endfor %}
 
-----
 
-### Today's Update
-
-{% include_relative {{ newestpost.path }} %}
-
-Updated 2020.04.18 10:04 CDT
+Updated 2020.04.20 16:58 CDT
