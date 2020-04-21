@@ -21,8 +21,9 @@ need:
   relatives
 * There are no viable treatments to this disease. A vaccine will not be
   available for years, and if one is available earlier I strongly
-  recommend not taking it. One way or another, everyone, or almost
-  everyone, are getting infected
+  recommend not taking it until it has been available for years and has
+  a robust demonstrated safety record. One way or another, everyone, or
+  almost everyone, are getting infected
 * Most of the public health measures being taken shouldn't be. Most of
   the public health measures that should be taken aren't. This will not
   change
@@ -80,4 +81,4 @@ though the WHO data is more "official"
 {% for post in sortedposts %}{% unless forloop.first %} / {% endunless %}[{{ post.date | date:"%Y.%m.%d" }}]({{ post.url }}){% endfor %}
 
 
-Updated 2020.04.20 16:58 CDT
+Updated 2020.04.21 13:15 CDT
